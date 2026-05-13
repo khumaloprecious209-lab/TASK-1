@@ -42,19 +42,6 @@ Run the main class:
 Task1Application.java
 4. Application will start on:
 http://localhost:8080
-API Endpoints
-1. Hello Endpoint
-GET /hello
-URL:
-http://localhost:8080/hello
-Response:
-Hello from Task1 Spring Boot Application!
-2. Info Endpoint
-GET /info
-URL:
-http://localhost:8080/info
-Response:This is a simple Spring Boot controller using @RestController (@ResponseBody included).
-
 
 How It Works (Code Explanation)
 @SpringBootApplication
